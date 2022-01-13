@@ -7,4 +7,3 @@ pay = 02
 
 pay = 03
 
-over
